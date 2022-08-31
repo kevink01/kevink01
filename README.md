@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kevin Kulich, and I'm a third year computer science major at Michigan Tech, with a minor in mathematical sciences.
+My name is Kevin, and I'm a third year computer science major at Michigan Tech, with a minor in mathematical sciences.
 
 I love to program and create my own projects!
 
