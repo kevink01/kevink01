@@ -5,7 +5,7 @@ My name is Kevin, and I'm a third year computer science major at Michigan Tech, 
 I love to program and create my own projects!
 
 #### :telescope: Current projects
- - [Spotify clone](https://github.com/kevink01/Spotify-Clone) 
+ - [Spotify++](https://github.com/kevink01/Spotify-Clone) 
  
 #### :clock2: Previous projects
  - [Discord bot](https://github.com/kevink01/KevinDiscordBot)
