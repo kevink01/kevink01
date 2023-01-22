@@ -3,7 +3,7 @@
 </div>
   
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&weight=100&size=15&duration=2000&pause=250&color=1F8DFF&center=true&vCenter=true&multiline=true&width=400&height=100&lines=Most+good+programmers+do+programming+not+because;they+expect+to+get+paid+or+get+adulation;by+the+public%2C+but+because+it+is+fun+to+program.;-+Linus+Torvalds" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&weight=100&size=14&duration=2000&pause=250&color=1F8DFF&center=true&vCenter=true&multiline=true&width=400&height=100&lines=Most+good+programmers+do+programming+not+because;they+expect+to+get+paid+or+get+adulation;by+the+public%2C+but+because+it+is+fun+to+program.;-+Linus+Torvalds" alt="Typing SVG" /></a>
 </p>
 <p>
   My name is Kevin, and I'm a third year computer science major at Michigan Tech, with a minor in mathematical sciences.
