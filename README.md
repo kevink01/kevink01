@@ -6,23 +6,29 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&weight=100&size=13&duration=2000&pause=250&color=1F8DFF&center=true&vCenter=true&multiline=true&width=400&height=100&lines=Most+good+programmers+do+programming+not+because;they+expect+to+get+paid+or+get+adulation;by+the+public%2C+but+because+it+is+fun+to+program.;-+Linus+Torvalds" alt="Typing SVG" /></a>
 </p>
 <p>
-  My name is Kevin, and I'm a fourth year computer science major at Michigan Tech, with a minor in mathematical sciences.
+  My name is Kevin, and I'm a full-time software engineer.
   <br><br>
-  I have been programming for 4 years now, with a passion for front-end development. My favorite language to code in is Typescript, but my first language that I learned was python.
+  I have been programming for 5 years now, with a passion for front-end development. My favorite language to code in is Typescript, but my first language that I learned was Python.
   <br><br>
   I believe it is important to write quality software that is functional and user-friendly with good documentation.
   <br><br>
-  Besides programming, I like to play pool and bowling, and I enjoy my time outdoors going on hikes.
+  Besides programming, I like to play pool and bowling, go rock climbing, and go on hikes.
 </p>
+
+<!-- ---
+
+<!-- ## Visit my website to view my portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=next.js&logoColor=white)](https://www.kkulich.com) -->
 
 ## 📆 Current Projects
 
-[![tasks2Do](https://img.shields.io/badge/tasks2Do-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow&color=orange)](https://github.com/kevink01/tasks2do)
-[![Spotify](https://img.shields.io/badge/Spotify++-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/kevink01/SpotifyPlusPlus)
+[![Spotify](https://img.shields.io/badge/SpotifyClone-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/kevink01/spotifyclone)
 
 ## 🕛 Previous Projects
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/kevink01/portfolio)
+[![tasks2Do](https://img.shields.io/badge/tasks2Do-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow&color=orange)](https://github.com/kevink01/tasks2do)
 [![Discord](https://img.shields.io/badge/Discord_Bot-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/kevink01/KevinDiscordBot)
 
 ## 📱 Socials
